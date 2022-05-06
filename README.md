@@ -15,16 +15,20 @@
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&hide_title=true&hide_border=true&langs_count=3&bg_color=00000000&text_color=777)
+
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mux032&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mux032/github-readme-stats)
+Experienced Data Scientist with a demonstrated history of working in the retail industry. Skilled in Data Science, Data Analysis, Operations Research, Python (Programming Language), and Natural Language Processing (NLP). Strong engineering professional with a Master of Technology - ME focused in Machine learning/Data science from Indian Institute of Science (IISc).
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mux032&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
 <!--
 **mux032/mux032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mux032&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mux032&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
 Here are some ideas to get you started:
 
