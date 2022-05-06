@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there. I'm Mukesh 👋🏼
+- 🤍 I love programming, data science and books
+- 🌱 I’m addicted to learning and growing every day
+- 🤔 I’m looking for help with learning Operations Research
+- 📫 How to reach me: <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-linkedin---in-logo-used-for-professional-networking,-16.png">[email:@mux032](mux032@gmail.com)
 
-[![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mux032&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mux032/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mux032&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mux032&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mux032&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
-[![Mukesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
+[![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
 <!--
 **mux032/mux032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
