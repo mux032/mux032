@@ -1,4 +1,5 @@
-### Hi there. I'm Mukesh 👋🏼
+### Hi there. I'm Mukesh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 - 🤍 I love programming, data science and books
 - 🌱 I’m addicted to learning and growing every day
 - 🤔 I’m looking for help with learning Operations Research
