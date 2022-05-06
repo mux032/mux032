@@ -14,7 +14,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&hide_title=true&hide_border=true&langs_count=3&bg_color=00000000&text_color=777)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&hide_title=true&hide_border=true&langs_count=3&bg_color=00000000&text_color=777)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
