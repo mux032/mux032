@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="275" src="https://github.com/mux032/mux032/blob/main/assets/MKsN.gif">
+  <img width="768" height="300" src="https://github.com/mux032/mux032/blob/main/assets/MKsN.gif">
 </p>
 [![Bruce banner](https://github.com/mux032/mux032/blob/main/assets/MKsN.gif)](https://github.com/mux032)
 ### Hi there. I'm Mukesh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
