@@ -2,7 +2,7 @@
 - 🤍 I love programming, data science and books
 - 🌱 I’m addicted to learning and growing every day
 - 🤔 I’m looking for help with learning Operations Research
-- 📫 How to reach me: <a href = "mailto: mux032@gmail.com">Send Email</a>
+- 📫 How to reach me: <a href = "mailto: mux032@gmail.com">e-Mail</a>
 - ⚡ &nbsp;Fun fact: I :heart: 🐈
 
 🔗 &nbsp;**Connect with me**
