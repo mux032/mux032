@@ -2,13 +2,26 @@
 - 🤍 I love programming, data science and books
 - 🌱 I’m addicted to learning and growing every day
 - 🤔 I’m looking for help with learning Operations Research
-- 📫 How to reach me: <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-linkedin---in-logo-used-for-professional-networking,-16.png">[email:@mux032](mux032@gmail.com)
+- 📫 How to reach me: <a rel="icon" href=".../icons8-linkedin---in-logo-used-for-professional-networking,-16.png"> [mux032@gmail.com](mux032@gmail.com)
+- ⚡ &nbsp;Fun fact: I :heart: 🐈
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/mukesh_makwana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukesh_makwana_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukesh-makwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh-makwana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/_mukesh_makwana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mukesh_makwana_" height="30" width="40" /></a>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&hide_title=true&hide_border=true&langs_count=3&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mux032&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mux032&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
-
-[![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=mux032&hide=textmate,HTML,XML,properties,CSV&layout=compact&theme=github_dark)](https://github.com/mux032/github-readme-stats)
 
 <!--
 **mux032/mux032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
