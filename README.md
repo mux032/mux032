@@ -1,3 +1,4 @@
+<img src="drawing.jpg" alt="drawing" width="200" height="50"/>
 ### Hi there. I'm Mukesh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🤍 I love programming, data science and books
